@@ -67,10 +67,10 @@ export const tabs: TabLink[] = [
     mdFileName: 'projects',
   },
   {
-    name: 'certificates.sass',
-    url: '/certificates',
+    name: 'links.sass',
+    url: '/links',
     icon: ['fab', 'sass'],
     color: pink,
-    mdFileName: 'certificates',
+    mdFileName: 'link',
   },
 ];
